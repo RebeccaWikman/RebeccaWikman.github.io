@@ -19,21 +19,22 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-05T19:44:44+02:00",
-            "date_modified": "2020-10-05T19:44:44+02:00"
+            "date_published": "2020-10-05T22:04:55+02:00",
+            "date_modified": "2020-10-05T22:04:55+02:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/about-me.html",
             "url": "https://RebeccaWikman.github.io/about-me.html",
             "title": "About Me/Contact",
             "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://RebeccaWikman.github.io/media/posts/5/Profile-Picture.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://RebeccaWikman.github.io/media/posts/5/responsive/Profile-Picture-xs.jpg 300w ,https://RebeccaWikman.github.io/media/posts/5/responsive/Profile-Picture-sm.jpg 480w ,https://RebeccaWikman.github.io/media/posts/5/responsive/Profile-Picture-md.jpg 768w ,https://RebeccaWikman.github.io/media/posts/5/responsive/Profile-Picture-lg.jpg 1024w ,https://RebeccaWikman.github.io/media/posts/5/responsive/Profile-Picture-xl.jpg 1360w ,https://RebeccaWikman.github.io/media/posts/5/responsive/Profile-Picture-2xl.jpg 1600w\"  alt=\"\" width=\"1440\" height=\"1420\"></figure>\n<p>I'm a game design student at Future Games, set to graduate in the spring of 2021. <br><br>I enjoy RPGs, time management, and simulation games, and occasionally play a MOBA or two with my family. Though my main interest is narrative design, I also enjoy the challenge of connecting this with gameplay and environmental storytelling to create a seamless, immersive experience. <br><br>I enjoy reading and creative writing in my free time, as well as a host of crafts like crochet, perlers, sewing, and baking.<br><br>At the moment, I'm experimenting with how simple a game can be and yet still be engaging. See more on this in my \"Ongoing Projects\" section. <br><br>Have a question or a project you'd like me to weigh in on? Feel free to contact me!</p>\n<p class=\"align-center\"><strong>Email: </strong><a href=\"mailto:mariarebeccawikman@gmail.com\">mariarebeccawikman@gmail.com</a><br><strong>Phone: </strong>+46 735 259 687</p>",
+            "image": "https://RebeccaWikman.github.io/media/posts/5/abputMe.jpeg",
             "author": {
                 "name": "Rebecca Wikman"
             },
             "tags": [
             ],
-            "date_published": "2020-10-05T19:44:44+02:00",
-            "date_modified": "2020-10-05T19:44:44+02:00"
+            "date_published": "2020-10-05T22:04:55+02:00",
+            "date_modified": "2020-10-05T22:04:55+02:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/pipopoly.html",
@@ -46,8 +47,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-05T19:44:44+02:00",
-            "date_modified": "2020-10-05T19:44:44+02:00"
+            "date_published": "2020-10-05T22:04:55+02:00",
+            "date_modified": "2020-10-05T22:04:55+02:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/extreme-galacticball.html",
@@ -60,8 +61,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-05T19:44:44+02:00",
-            "date_modified": "2020-10-05T19:44:44+02:00"
+            "date_published": "2020-10-05T22:04:55+02:00",
+            "date_modified": "2020-10-05T22:04:55+02:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/escape-in-frogress.html",
@@ -74,8 +75,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-05T19:44:44+02:00",
-            "date_modified": "2020-10-05T19:44:44+02:00"
+            "date_published": "2020-10-05T22:04:55+02:00",
+            "date_modified": "2020-10-05T22:04:55+02:00"
         }
     ]
 }
