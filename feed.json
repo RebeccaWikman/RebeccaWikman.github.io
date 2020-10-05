@@ -10,17 +10,30 @@
     },
     "items": [
         {
-            "id": "https://RebeccaWikman.github.io/hellish.html",
-            "url": "https://RebeccaWikman.github.io/hellish.html",
-            "title": "Hellish (2020)",
-            "content_html": "<p><strong>Genre: </strong>Comedic Horror Point-and-Click<strong><br>Engine: </strong>Unreal Engine 4<br><strong>Platform: </strong>PC<br><strong>Development </strong><strong>Time: </strong>Four weeks<br><strong>Team: </strong></p>\n<p><strong>My Roles<br></strong></p>\n<ul>\n<li>Concept Designer</li>\n<li>Narrative Designer</li>\n<li>Playtester</li>\n</ul>\n<p>Hell. Hel. The underworld. They call it many things, but one thing is for sure: it’ll take wit to escape it.</p>\n<p>Hellish is a point-and-click adventure featuring some absolutely silly logic, rivers of ever flowing blood, and a wacky cast of characters to help you on your way. A healthy mix of humorous and bizarre, this game invites players to do some soul searching as they escape the final prison for all wicked souls. Solve the puzzles, make the right (or wrong) decisions in doing so, and prepare for your final judgment.</p>\n<p>For this production, I was a part-time narrative and concept designer. I was mostly responsible for the narrative concepts, character lines, and scene progression concept of the game. </p>\n<p><strong>My Responsibilities:<br></strong></p>\n<ul>\n<li>Part of designing the game genre, concept, and core pillars</li>\n<li>Part of setting the scope of the game and detail design of scene progression</li>\n<li>Puzzle planning and detail design</li>\n<li>Character concepts (narrative)</li>\n<li>Writing cutscenes and character dialogue</li>\n<li>Writing description for the game's online page.</li>\n</ul>\n<p><strong>Process</strong></p>\n<p> </p>",
+            "id": "https://RebeccaWikman.github.io/ongoing-projects.html",
+            "url": "https://RebeccaWikman.github.io/ongoing-projects.html",
+            "title": "Ongoing Projects",
+            "content_html": "<p>This page concerns ongoing work I'm doing in my free time. </p>\n<p>I'm currently working on a series of mini games I affectionately refer to as the Many Hats Project. It's a project centred around my own growth as a game designer. </p>\n<p>The premise is this: a series of smaller games focused on practicing one core aspect of game design per unit. In each project, I choose a role within game production I would like to focus most on learning and aim for a notable result within that area. These are areas like level design, scripting, narrative, technical design, and gameplay design. Some may be more focused than others, but for each I have the goal of learning something new in that area. That is my yardstick for success in this project. </p>\n<p>While no one game in this is planned to be published or given full context, I will maintain an overall focus on making each one as simple as I can while keeping the result compelling. My inspiration for this is the sort of sketches an artist does to warm up before proper works. The key to a sketch is prioritising the most important details that convey the chosen thought, and I will focus on finding those details within the context of a game.</p>\n<p>This project is in the early stages and I will be documenting my progress in a page soon linked here once I have made more progress.</p>",
             "author": {
                 "name": "Rebecca Wikman"
             },
             "tags": [
             ],
-            "date_published": "2020-10-05T22:08:18+02:00",
-            "date_modified": "2020-10-05T22:08:18+02:00"
+            "date_published": "2020-10-06T00:08:53+02:00",
+            "date_modified": "2020-10-06T00:08:53+02:00"
+        },
+        {
+            "id": "https://RebeccaWikman.github.io/hellish.html",
+            "url": "https://RebeccaWikman.github.io/hellish.html",
+            "title": "Hellish (2020)",
+            "content_html": "<p><strong>Genre: </strong>Comedic Horror Point-and-Click<strong><br>Engine: </strong>Unreal Engine 4<br><strong>Platform: </strong>PC<br><strong>Development </strong><strong>Time: </strong>Four weeks<br><strong>Team: </strong></p>\n<p><strong>My Roles<br></strong></p>\n<ul>\n<li>Concept Designer</li>\n<li>Narrative Designer</li>\n<li>Playtester</li>\n</ul>\n<p>Hell. Hel. The underworld. They call it many things, but one thing is for sure: it’ll take wit to escape it.</p>\n<p>Hellish is a point-and-click adventure featuring some absolutely silly logic, rivers of ever flowing blood, and a wacky cast of characters to help you on your way. A healthy mix of humorous and bizarre, this game invites players to do some soul searching as they escape the final prison for all wicked souls. Solve the puzzles, make the right (or wrong) decisions in doing so, and prepare for your final judgment.</p>\n<p>For this production, I was a part-time narrative and concept designer. I was mostly responsible for the narrative concepts, character lines, and scene progression concept of the game. </p>\n<p><strong>My Responsibilities:<br></strong></p>\n<ul>\n<li>Part of designing the game genre, concept, and core pillars</li>\n<li>Part of setting the scope of the game and detail design of scene progression</li>\n<li>Puzzle planning and detail design</li>\n<li>Character concepts (narrative)</li>\n<li>Writing cutscenes and character dialogue</li>\n<li>Writing description for the game's online page.</li>\n</ul>",
+            "author": {
+                "name": "Rebecca Wikman"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-06T00:08:53+02:00",
+            "date_modified": "2020-10-06T00:08:53+02:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/about-me.html",
@@ -33,8 +46,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-05T22:08:18+02:00",
-            "date_modified": "2020-10-05T22:08:18+02:00"
+            "date_published": "2020-10-06T00:08:53+02:00",
+            "date_modified": "2020-10-06T00:08:53+02:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/pipopoly.html",
@@ -47,8 +60,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-05T22:08:18+02:00",
-            "date_modified": "2020-10-05T22:08:18+02:00"
+            "date_published": "2020-10-06T00:08:53+02:00",
+            "date_modified": "2020-10-06T00:08:53+02:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/extreme-galacticball.html",
@@ -61,8 +74,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-05T22:08:18+02:00",
-            "date_modified": "2020-10-05T22:08:18+02:00"
+            "date_published": "2020-10-06T00:08:53+02:00",
+            "date_modified": "2020-10-06T00:08:53+02:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/escape-in-frogress.html",
@@ -75,8 +88,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-05T22:08:18+02:00",
-            "date_modified": "2020-10-05T22:08:18+02:00"
+            "date_published": "2020-10-06T00:08:53+02:00",
+            "date_modified": "2020-10-06T00:08:53+02:00"
         }
     ]
 }
