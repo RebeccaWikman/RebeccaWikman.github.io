@@ -5,6 +5,7 @@
     "home_page_url": "https://RebeccaWikman.github.io",
     "feed_url": "https://RebeccaWikman.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://RebeccaWikman.github.io/media/website/curly-wing-1.png",
     "author": {
         "name": "Rebecca Wikman"
     },
@@ -19,8 +20,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-06T22:35:05+02:00",
-            "date_modified": "2020-10-06T22:35:05+02:00"
+            "date_published": "2020-10-06T23:17:59+02:00",
+            "date_modified": "2020-10-06T23:17:59+02:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/hellish.html",
@@ -32,8 +33,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-06T22:35:05+02:00",
-            "date_modified": "2020-10-06T22:35:05+02:00"
+            "date_published": "2020-10-06T23:17:59+02:00",
+            "date_modified": "2020-10-06T23:17:59+02:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/about-me.html",
@@ -46,8 +47,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-06T22:35:05+02:00",
-            "date_modified": "2020-10-06T22:35:05+02:00"
+            "date_published": "2020-10-06T23:17:59+02:00",
+            "date_modified": "2020-10-06T23:17:59+02:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/pipopoly.html",
@@ -60,8 +61,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-06T22:35:05+02:00",
-            "date_modified": "2020-10-06T22:35:05+02:00"
+            "date_published": "2020-10-06T23:17:59+02:00",
+            "date_modified": "2020-10-06T23:17:59+02:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/extreme-galacticball.html",
@@ -74,8 +75,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-06T22:35:05+02:00",
-            "date_modified": "2020-10-06T22:35:05+02:00"
+            "date_published": "2020-10-06T23:17:59+02:00",
+            "date_modified": "2020-10-06T23:17:59+02:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/escape-in-frogress.html",
@@ -88,8 +89,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-06T22:35:05+02:00",
-            "date_modified": "2020-10-06T22:35:05+02:00"
+            "date_published": "2020-10-06T23:17:59+02:00",
+            "date_modified": "2020-10-06T23:17:59+02:00"
         }
     ]
 }
