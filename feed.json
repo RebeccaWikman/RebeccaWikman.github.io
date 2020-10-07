@@ -15,26 +15,28 @@
             "url": "https://RebeccaWikman.github.io/ongoing-projects.html",
             "title": "Ongoing Projects",
             "content_html": "<p>This page concerns ongoing work I'm doing in my free time. </p>\n<p>I'm currently working on a series of mini games I affectionately refer to as the Many Hats Project. It's a project centred around my own growth as a game designer. </p>\n<p>The premise is this: a series of smaller games focused on practicing one core aspect of game design per unit. In each project, I choose a role within game production I would like to focus most on learning and aim for a notable result within that area. These are areas like level design, scripting, narrative, technical design, and gameplay design. Some may be more focused than others, but for each I have the goal of learning something new in that area. That is my yardstick for success in this project. </p>\n<p>While no one game in this is planned to be published or given full context, I will maintain an overall focus on making each one as simple as I can while keeping the result compelling. My inspiration for this is the sort of sketches an artist does to warm up before proper works. The key to a sketch is prioritising the most important details that convey the chosen thought, and I will focus on finding those details within the context of a game.</p>\n<p>This project is in the early stages and I will be documenting my progress in a page soon linked here once I have made more progress.</p>",
+            "image": "https://RebeccaWikman.github.io/media/posts/7/Placeholder-image.png",
             "author": {
                 "name": "Rebecca Wikman"
             },
             "tags": [
             ],
-            "date_published": "2020-10-06T23:17:59+02:00",
-            "date_modified": "2020-10-06T23:17:59+02:00"
+            "date_published": "2020-10-07T18:22:00+02:00",
+            "date_modified": "2020-10-07T18:22:00+02:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/hellish.html",
             "url": "https://RebeccaWikman.github.io/hellish.html",
             "title": "Hellish (2020)",
             "content_html": "<p><strong>Genre: </strong>Comedic Horror Point-and-Click<strong><br>Engine: </strong>Unreal Engine 4<br><strong>Platform: </strong>PC<br><strong>Development </strong><strong>Time: </strong>Four weeks<br><strong>Team: </strong></p>\n<p><strong><span style=\"text-decoration: underline;\">My Roles</span><br></strong></p>\n<ul>\n<li>Concept Designer</li>\n<li>Narrative Designer</li>\n<li>Playtester</li>\n</ul>\n<p>Hell. Hel. The underworld. They call it many things, but one thing is for sure: it’ll take wit to escape it.</p>\n<p>Hellish is a point-and-click adventure featuring some absolutely silly logic, rivers of ever flowing blood, and a wacky cast of characters to help you on your way. A healthy mix of humorous and bizarre, this game invites players to do some soul searching as they escape the final prison for all wicked souls. Solve the puzzles, make the right (or wrong) decisions in doing so, and prepare for your final judgment.</p>\n<p>For this production, I was a part-time narrative and concept designer. I was mostly responsible for the narrative concepts, character lines, and scene progression concept of the game. </p>\n<p><strong><span style=\"text-decoration: underline;\">My Responsibilities:</span><br></strong></p>\n<ul>\n<li>Part of designing the game genre, concept, and core pillars</li>\n<li>Part of setting the scope of the game and detail design of scene progression</li>\n<li>Part of puzzle planning and detail design</li>\n<li>Part of writing character concepts (narrative)</li>\n<li>Part of writing cutscenes and character dialogue</li>\n<li>Writing description for the game's online page.</li>\n</ul>\n<p><span style=\"text-decoration: underline;\"><strong>Process</strong></span></p>\n<p>For this project, we were given a painting as a theme. The Garden of Earthly Delights by Hieronymous Bosch. As expected, there were a lot of ways we could interpret this. </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://RebeccaWikman.github.io/media/posts/6/The_Garden_of_earthly_delights.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://RebeccaWikman.github.io/media/posts/6/responsive/The_Garden_of_earthly_delights-xs.jpg 300w ,https://RebeccaWikman.github.io/media/posts/6/responsive/The_Garden_of_earthly_delights-sm.jpg 480w ,https://RebeccaWikman.github.io/media/posts/6/responsive/The_Garden_of_earthly_delights-md.jpg 768w ,https://RebeccaWikman.github.io/media/posts/6/responsive/The_Garden_of_earthly_delights-lg.jpg 1024w ,https://RebeccaWikman.github.io/media/posts/6/responsive/The_Garden_of_earthly_delights-xl.jpg 1360w ,https://RebeccaWikman.github.io/media/posts/6/responsive/The_Garden_of_earthly_delights-2xl.jpg 1600w\"  alt=\"\" width=\"1200\" height=\"683\"></figure>\n<p>There are three sections to this painting, representing Heaven (left), Earth (middle) and Hell (right). As the name of the game suggests, we chose to set our game in a setting that is an interpretation of Hell. </p>\n<p><span style=\"text-decoration: underline;\"><strong>Hell, Hel, Hades</strong></span></p>\n<p>Though we loved the idea of the chaos going on in the painting and a lot of the art is inspired by it (more on that below), our concept for the setting was a mix of the concept of Hell from three different religions. As the player goes through the game, they meet other characters who are all (in their minds) in their own religion's version of a hellish afterlife. They have each performed a sin from their own cultures to land themselves there. Each character has a corresponding sin scroll (pickups the player can find) that can be given to them to trigger an extra interaction. </p>\n<p>These characters' origins give the player some clue as to how to find progression to do with that character's section. The Greek is there because of hubris, and so the player must complete a test of intelligence to get his attention. The viking is there because of cowardice, and so the player can scare him into helping them. </p>\n<p><span style=\"text-decoration: underline;\"><strong>Concept and Narrative</strong></span></p>\n<p>These were the two sections I was most part of during this production. I worked with another narrative designer (Felicia Uddling) to write a narrative outline, dialogue, and cutscenes, as well as some concept documents for the game. We then moved on to a design document which was completed by the whole group. To that, I added a detail design for the puzzles so that they would be simpler to organise and implement.</p>\n<p>We began by planning the project together in a Miro board, in which we placed all the inspiration we could think of that would fit an adventurous point-and-click. Many ideas were discussed and the group had a good rapport. We settled on what we wanted to do and Felicia and I began to write an outline and character concepts while the other designers began level blockouts and artists began to plan out assets. </p>\n<p>I updated concepts and scripts as needed for the rest of the production and participated in playtesting when needed.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Awful, but Also Like, Funny</strong></span></p>\n<p>Like the Garden, we wanted this experience to be both absurd and humorous in equal measure. To do this, we put together a cast of characters that would fit such a worldview. The environment, assets, and sound effects together with some sardonic dialogue make for a fun experience in which the player hopefully gets to delight in questioning everything that happens along the way. From the gate, who insists on snacking on apples with teeth, to Manny, whose dialogue is accompanied by fun and thoughtful sound effects, to Anubis, whose entrance is meant to be as bizarre as it is grand. Each section comes with its own challenge that requires a logic that, while absurd, gradually begins to make sense. </p>\n<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://RebeccaWikman.github.io/media/posts/6/gallery/greken.jpg\" data-size=\"485x927\"><img loading=\"lazy\" src=\"https://RebeccaWikman.github.io/media/posts/6/gallery/greken-thumbnail.jpg\" alt=\"\" width=\"485\" height=\"927\"></a>\n<figcaption>The Greek character</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://RebeccaWikman.github.io/media/posts/6/gallery/nubis.JPG.jpg\" data-size=\"274x468\"><img loading=\"lazy\" src=\"https://RebeccaWikman.github.io/media/posts/6/gallery/nubis.JPG-thumbnail.jpg\" alt=\"\" width=\"274\" height=\"468\"></a>\n<figcaption>Anubis</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://RebeccaWikman.github.io/media/posts/6/gallery/babooo.jpg\" data-size=\"777x620\"><img loading=\"lazy\" src=\"https://RebeccaWikman.github.io/media/posts/6/gallery/babooo-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"575\"></a>\n<figcaption>Baboo, the production mascot</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://RebeccaWikman.github.io/media/posts/6/gallery/cerb2.JPG.jpg\" data-size=\"926x521\"><img loading=\"lazy\" src=\"https://RebeccaWikman.github.io/media/posts/6/gallery/cerb2.JPG-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"405\"></a>\n<figcaption>Cerberus, one of the obstacles the player comes across</figcaption>\n</figure>\n</div></div>\n<p>We noticed in playtesting that this was the experience players most often had, and that was exactly what we were aiming for. I am really glad that the environmental storytelling came together so well with the narrative one; practicing that is one of my goals in studying at Future Games. The concept the team put together worked out very well, and as a result, this is one of my favourite projects from my time here.</p>\n<p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/GT2BHwkPJu0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>",
+            "image": "https://RebeccaWikman.github.io/media/posts/6/Placeholder-image.png",
             "author": {
                 "name": "Rebecca Wikman"
             },
             "tags": [
             ],
-            "date_published": "2020-10-06T23:17:59+02:00",
-            "date_modified": "2020-10-06T23:17:59+02:00"
+            "date_published": "2020-10-07T18:22:00+02:00",
+            "date_modified": "2020-10-07T18:22:00+02:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/about-me.html",
@@ -47,8 +49,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-06T23:17:59+02:00",
-            "date_modified": "2020-10-06T23:17:59+02:00"
+            "date_published": "2020-10-07T18:22:00+02:00",
+            "date_modified": "2020-10-07T18:22:00+02:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/pipopoly.html",
@@ -61,8 +63,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-06T23:17:59+02:00",
-            "date_modified": "2020-10-06T23:17:59+02:00"
+            "date_published": "2020-10-07T18:22:00+02:00",
+            "date_modified": "2020-10-07T18:22:00+02:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/extreme-galacticball.html",
@@ -75,8 +77,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-06T23:17:59+02:00",
-            "date_modified": "2020-10-06T23:17:59+02:00"
+            "date_published": "2020-10-07T18:22:00+02:00",
+            "date_modified": "2020-10-07T18:22:00+02:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/escape-in-frogress.html",
@@ -89,8 +91,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-10-06T23:17:59+02:00",
-            "date_modified": "2020-10-06T23:17:59+02:00"
+            "date_published": "2020-10-07T18:22:00+02:00",
+            "date_modified": "2020-10-07T18:22:00+02:00"
         }
     ]
 }
