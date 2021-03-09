@@ -17,16 +17,16 @@
         <link href="https://RebeccaWikman.github.io/ongoing-projects.html"/>
         <id>https://RebeccaWikman.github.io/ongoing-projects.html</id>
 
-        <updated>2021-02-18T11:11:02+01:00</updated>
+        <updated>2021-03-09T23:52:19+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://RebeccaWikman.github.io/media/posts/7/Placeholder-image.png" alt="" />
-                <p>This page concerns ongoing work I'm doing in my free time. </p>
-<p>I'm currently working on a series of mini games I affectionately refer to as the Many Hats Project. It's a project centred around my own growth as a game designer. </p>
-<p>The premise is this: a series of smaller games focused on practicing one core aspect of game design per unit. In each project, I choose a role within game production I would like to focus most on learning and aim for a notable result within that area. These are areas like level design, scripting, narrative, technical design, and gameplay design. Some may be more focused than others, but for each I have the goal of learning something new in that area. That is my yardstick for success in this project. </p>
-<p>While no one game in this is planned to be published or given full context, I will maintain an overall focus on making each one as simple as I can while keeping the result compelling. My inspiration for this is the sort of sketches an artist does to warm up before proper works. The key to a sketch is prioritising the most important details that convey the chosen thought, and I will focus on finding those details within the context of a game.</p>
-<p>This project is in the early stages and I will be documenting my progress in a page soon linked here once I have made more progress.</p>
+                <p>This page concerns ongoing work I'm doing.</p>
+<p>I'm currently working on my degree project for Future Games. It is a dating sim with a mystery element, currently unnamed. </p>
+<p>The premise is this: the player is a detective whose case has culminated in a search for their suspect at a speed dating event. They have a notebook with clues (increased gradually through flashbacks as the game progresses) and their mission is to go through the event undercover and find out who has committed the thefts they are investigating without any of the suspects catching on. If they can move through the dates smoothly enough, the suspect is bound to slip up. Eventually. </p>
+<p>This will be a short experience with a focus on humour and characters. The goal is for the player to come out of it feeling accomplished and invested in at least one character. I am making this game using the Fungus interactive storytelling plugin in Unity. </p>
+<p>I will be documenting this game in the "Games" tab once it is finished. If you have any questions before then, I am happy to answer them. You can find my details on the <a href="https://RebeccaWikman.github.io/about-me.html">About Me </a>page.<a href="https://RebeccaWikman.github.io/about-me.html"></a></p>
             ]]>
         </content>
     </entry>
@@ -38,7 +38,7 @@
         <link href="https://RebeccaWikman.github.io/hellish.html"/>
         <id>https://RebeccaWikman.github.io/hellish.html</id>
 
-        <updated>2021-02-18T11:11:02+01:00</updated>
+        <updated>2021-03-09T23:52:19+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -103,13 +103,13 @@
         <link href="https://RebeccaWikman.github.io/about-me.html"/>
         <id>https://RebeccaWikman.github.io/about-me.html</id>
 
-        <updated>2021-02-18T11:11:02+01:00</updated>
+        <updated>2021-03-09T23:52:19+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://RebeccaWikman.github.io/media/posts/5/abputMe.jpeg" alt="" />
                 <figure class="post__image"><img loading="lazy"  src="https://RebeccaWikman.github.io/media/posts/5/Profile-Picture.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://RebeccaWikman.github.io/media/posts/5/responsive/Profile-Picture-xs.jpg 300w ,https://RebeccaWikman.github.io/media/posts/5/responsive/Profile-Picture-sm.jpg 480w ,https://RebeccaWikman.github.io/media/posts/5/responsive/Profile-Picture-md.jpg 768w ,https://RebeccaWikman.github.io/media/posts/5/responsive/Profile-Picture-lg.jpg 1024w ,https://RebeccaWikman.github.io/media/posts/5/responsive/Profile-Picture-xl.jpg 1360w ,https://RebeccaWikman.github.io/media/posts/5/responsive/Profile-Picture-2xl.jpg 1600w"  alt="" width="1440" height="1420"></figure>
-<p>I'm a game design student at Future Games, set to graduate in the fall of 2021. <br><br>I enjoy RPGs, time management, and simulation games, and occasionally play a MOBA or two with my family. Though my main interest is narrative design, I also enjoy the challenge of connecting this with gameplay and environmental storytelling to create a seamless, immersive experience. <br><br>I enjoy reading and creative writing in my free time, as well as a host of crafts like crochet, perlers, sewing, and baking.<br><br>At the moment, I'm experimenting with how simple a game can be and yet still be engaging. See more on this in <a href="https://RebeccaWikman.github.io/ongoing-projects.html">Ongoing Projects</a>.<br><br>Have a question or a project you'd like me to weigh in on? Feel free to contact me!</p>
+<p>I'm a game design student at Future Games, set to graduate in the fall of 2021. <br><br>I enjoy RPGs, time management, and simulation games, and occasionally play a MOBA or two with my family. Though my main interest is narrative design, I also enjoy the challenge of connecting this with gameplay and environmental storytelling to create a seamless, immersive experience. <br><br>I enjoy reading and creative writing in my free time, as well as a host of crafts like crochet, perlers, sewing, and baking.<br><br>At the moment, I'm creating a very mysterious dating sim. See more on this in <a href="https://RebeccaWikman.github.io/ongoing-projects.html">Ongoing Projects</a>.<br><br>Have a question? Feel free to contact me!</p>
 <p class="align-center"><strong>Email: </strong><a href="mailto:mariarebeccawikman@gmail.com">mariarebeccawikman@gmail.com</a><br><strong>Phone: </strong>+46 735 259 687<br><strong><a href="https://www.linkedin.com/in/rebecca-wikman-03229a1b9/" target="_blank" rel="noopener noreferrer">LinkedIn</a></strong></p>
             ]]>
         </content>
@@ -122,7 +122,7 @@
         <link href="https://RebeccaWikman.github.io/pipopoly.html"/>
         <id>https://RebeccaWikman.github.io/pipopoly.html</id>
 
-        <updated>2021-02-18T11:11:02+01:00</updated>
+        <updated>2021-03-09T23:52:19+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -170,7 +170,7 @@
         <link href="https://RebeccaWikman.github.io/extreme-galacticball.html"/>
         <id>https://RebeccaWikman.github.io/extreme-galacticball.html</id>
 
-        <updated>2021-02-18T11:11:02+01:00</updated>
+        <updated>2021-03-09T23:52:19+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -234,7 +234,7 @@
         <link href="https://RebeccaWikman.github.io/escape-in-frogress.html"/>
         <id>https://RebeccaWikman.github.io/escape-in-frogress.html</id>
 
-        <updated>2021-02-18T11:11:02+01:00</updated>
+        <updated>2021-03-09T23:52:19+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
