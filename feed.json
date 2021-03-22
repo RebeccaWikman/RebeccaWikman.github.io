@@ -15,14 +15,14 @@
             "url": "https://RebeccaWikman.github.io/ongoing-projects.html",
             "title": "Ongoing Projects",
             "content_html": "<p>This page concerns ongoing work I'm doing.</p>\n<p>I'm currently working on my degree project for Future Games. It is a dating sim with a mystery element, currently unnamed. </p>\n<p>The premise is this: the player is a detective whose case has culminated in a search for their suspect at a speed dating event. They have a notebook with clues (increased gradually through flashbacks as the game progresses) and their mission is to go through the event undercover and find out who has committed the thefts they are investigating without any of the suspects catching on. If they can move through the dates smoothly enough, the suspect is bound to slip up. Eventually. </p>\n<p>This will be a short experience with a focus on humour and characters. The goal is for the player to come out of it feeling accomplished and invested in at least one character. I am making this game using the Fungus interactive storytelling plugin in Unity. </p>\n<p>I will be documenting this game in the \"Games\" tab once it is finished. If you have any questions before then, I am happy to answer them. You can find my details on the <a href=\"https://RebeccaWikman.github.io/about-me.html\">About Me </a>page.<a href=\"https://RebeccaWikman.github.io/about-me.html\"></a></p>",
-            "image": "https://RebeccaWikman.github.io/media/posts/7/Placeholder-image.png",
+            "image": "https://RebeccaWikman.github.io/media/posts/7/InProgress.jpg",
             "author": {
                 "name": "Rebecca Wikman"
             },
             "tags": [
             ],
-            "date_published": "2021-03-22T14:54:46+01:00",
-            "date_modified": "2021-03-22T14:54:46+01:00"
+            "date_published": "2021-03-22T15:02:45+01:00",
+            "date_modified": "2021-03-22T15:02:45+01:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/hellish.html",
@@ -35,8 +35,8 @@
             },
             "tags": [
             ],
-            "date_published": "2021-03-22T14:54:46+01:00",
-            "date_modified": "2021-03-22T14:54:46+01:00"
+            "date_published": "2021-03-22T15:02:45+01:00",
+            "date_modified": "2021-03-22T15:02:45+01:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/about-me.html",
@@ -49,8 +49,8 @@
             },
             "tags": [
             ],
-            "date_published": "2021-03-22T14:54:46+01:00",
-            "date_modified": "2021-03-22T14:54:46+01:00"
+            "date_published": "2021-03-22T15:02:45+01:00",
+            "date_modified": "2021-03-22T15:02:45+01:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/pipopoly.html",
@@ -63,8 +63,8 @@
             },
             "tags": [
             ],
-            "date_published": "2021-03-22T14:54:46+01:00",
-            "date_modified": "2021-03-22T14:54:46+01:00"
+            "date_published": "2021-03-22T15:02:45+01:00",
+            "date_modified": "2021-03-22T15:02:45+01:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/extreme-galacticball.html",
@@ -77,8 +77,8 @@
             },
             "tags": [
             ],
-            "date_published": "2021-03-22T14:54:46+01:00",
-            "date_modified": "2021-03-22T14:54:46+01:00"
+            "date_published": "2021-03-22T15:02:45+01:00",
+            "date_modified": "2021-03-22T15:02:45+01:00"
         },
         {
             "id": "https://RebeccaWikman.github.io/escape-in-frogress.html",
@@ -91,8 +91,8 @@
             },
             "tags": [
             ],
-            "date_published": "2021-03-22T14:54:46+01:00",
-            "date_modified": "2021-03-22T14:54:46+01:00"
+            "date_published": "2021-03-22T15:02:45+01:00",
+            "date_modified": "2021-03-22T15:02:45+01:00"
         }
     ]
 }
