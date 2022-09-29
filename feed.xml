@@ -10,45 +10,39 @@
     <id>https://RebeccaWikman.github.io</id>
 
     <entry>
-        <title>Gro Play Internship (2021)</title>
+        <title>Gro Play</title>
         <author>
             <name>Rebecca Wikman</name>
         </author>
         <link href="https://RebeccaWikman.github.io/gro-play-internship-2021.html"/>
         <id>https://RebeccaWikman.github.io/gro-play-internship-2021.html</id>
 
-        <updated>2022-01-21T16:46:27+01:00</updated>
+        <updated>2022-09-29T16:20:38+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://RebeccaWikman.github.io/media/posts/9/Building.png" alt="" />
-                <p>As a part of my education at Future Games, I completed an internship at <a href="https://www.groplay.com/" target="_blank" rel="noopener noreferrer">Gro Play</a> from April to November 2021.</p>
-<p>Gro Play is a company that makes games for kids with a focus on STEAM subjects and sustainability. My main project while I was there was <a href="https://www.groplay.com/apps/grow-planet/" target="_blank" rel="noopener noreferrer">Grow Planet</a>: an educational game for children in grades 1-6. </p>
+                <p>As a part of my education at Future Games, I completed an internship at <a href="https://www.groplay.com/" target="_blank" rel="noopener noreferrer">Gro Play</a> from April to November 2021. I later started working here again in August 2022. </p>
+<p>Gro Play is an indie company that makes educational games for children with a focus on STEAM and sustainability. As is often the case with an indie company, I wear many hats here.</p>
+<h2>Grow Planet</h2>
+<p><a href="https://www.groplay.com/apps/grow-planet/" target="_blank" rel="noopener noreferrer">Grow Planet</a>: an educational game for children in grades 1-6. It focuses on teaching children about sustainable practices using STEAM subjects and methods.</p>
 <figure class="post__image"><img loading="lazy"  style="color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal); font-size: 17.7235px; outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="https://RebeccaWikman.github.io/media/posts/9/Screenshot-2022-01-21-at-16.35.03.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://RebeccaWikman.github.io/media/posts/9/responsive/Screenshot-2022-01-21-at-16.35.03-xs.png 300w ,https://RebeccaWikman.github.io/media/posts/9/responsive/Screenshot-2022-01-21-at-16.35.03-sm.png 480w ,https://RebeccaWikman.github.io/media/posts/9/responsive/Screenshot-2022-01-21-at-16.35.03-md.png 768w ,https://RebeccaWikman.github.io/media/posts/9/responsive/Screenshot-2022-01-21-at-16.35.03-lg.png 1024w ,https://RebeccaWikman.github.io/media/posts/9/responsive/Screenshot-2022-01-21-at-16.35.03-xl.png 1360w ,https://RebeccaWikman.github.io/media/posts/9/responsive/Screenshot-2022-01-21-at-16.35.03-2xl.png 1600w"  alt="" width="874" height="482"></figure>
-<p>Grow Planet consists of island levels based around certain themes. One focuses on recycling, another on electricity, another on farming, etc. The activities for each level were designed to both place the themes in a practical and worldly context and to fulfil learning goals that connect to the theme in schooling. The result is an interesting mix of narrative, facts, and activities which put these facts into immediate action just after the kids learn them. This quick application of knowledge allows the children to put the facts in context, making them easier and more fun to learn. </p>
+<p>Grow Planet consists of island levels based around certain themes. One focuses on recycling, another on electricity, another on farming, etc. The activities for each level were designed to both place the themes in a practical and worldly context and to fulfil learning goals that connect to the theme in schooling. The result is a mix of narrative, facts, and activities which put these facts into immediate action immediately after the students learn them. This quick application of knowledge allows the children to put the facts in context, making them more concrete, easier to remember, and fun to learn.</p>
 <figure class="post__image"><img loading="lazy"  src="https://RebeccaWikman.github.io/media/posts/9/Screenshot-2022-01-21-at-16.36.07.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://RebeccaWikman.github.io/media/posts/9/responsive/Screenshot-2022-01-21-at-16.36.07-xs.png 300w ,https://RebeccaWikman.github.io/media/posts/9/responsive/Screenshot-2022-01-21-at-16.36.07-sm.png 480w ,https://RebeccaWikman.github.io/media/posts/9/responsive/Screenshot-2022-01-21-at-16.36.07-md.png 768w ,https://RebeccaWikman.github.io/media/posts/9/responsive/Screenshot-2022-01-21-at-16.36.07-lg.png 1024w ,https://RebeccaWikman.github.io/media/posts/9/responsive/Screenshot-2022-01-21-at-16.36.07-xl.png 1360w ,https://RebeccaWikman.github.io/media/posts/9/responsive/Screenshot-2022-01-21-at-16.36.07-2xl.png 1600w"  alt="" width="1754" height="480"></figure>
-<p>I spent most of my time at Gro Play designing for its most recent levels. One of them will be coming out later on, but the first level I worked on is live in the current version. It is a level about water -- what it is, what we use it for, and the sustainable use of it. I'll list some of my tasks for this level (and the next one) below. </p>
+<p>The following are some of my responsibilities when working with Grow Planet:</p>
 <ul>
-<li>Part of writing documentation for the level<br>
-<ul>
-<li>Writing outline, narrative, and minigame outline.</li>
-<li>Naming characters and writing dialogue.</li>
-<li>Translation of dialogue and info from English to Swedish and vice versa.</li>
-<li>Concept design of minigames for the level, fact checking thereof (educational game).</li>
-<li>Research for the facts used in the level.</li>
-<li>Mapping and usage of learning goals completed in the level minigames.</li>
+<li>Writing documentation.</li>
+<li>Worldbuilding.</li>
+<li>Writing narrative, level outline, dialogue.</li>
+<li>Minigame concepts.</li>
+<li>Level design.</li>
+<li>Translation (Swedish to English and vice versa).</li>
+<li>Educational content and fact checking.</li>
+<li>Mapping and usage of learning goals in the game.</li>
 <li>Designing and writing offline materials used to supplement the game during lessons (experiments, fact sheets, class activities).</li>
-<li>Designing and writing the accompanying LMS descriptions and materials for the level. </li>
+<li>Designing and writing the accompanying LMS for the game (offline materials and game descriptions). </li>
 </ul>
-</li>
-<li>Level design
-<ul>
-<li>Designing and implementing a basic version of the level in engine.</li>
-<li>Iterations on this based on feedback from team.</li>
-</ul>
-</li>
-</ul>
-<p>The most important experiences I gained from Gro Play were that of working with a small team and building a level for an existing IP from the ground up. There were a lot of existing contexts and frames of reference to place my writing in, and adapting to them was a fun and interesting challenge. So was adapting the whole level to be able to teach as it plays, with existing school materials in focus. </p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -60,7 +54,7 @@
         <link href="https://RebeccaWikman.github.io/mirror-image.html"/>
         <id>https://RebeccaWikman.github.io/mirror-image.html</id>
 
-        <updated>2022-01-21T16:46:27+01:00</updated>
+        <updated>2022-09-29T16:20:38+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -85,7 +79,7 @@
         <link href="https://RebeccaWikman.github.io/hellish.html"/>
         <id>https://RebeccaWikman.github.io/hellish.html</id>
 
-        <updated>2022-01-21T16:46:27+01:00</updated>
+        <updated>2022-09-29T16:20:38+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -150,7 +144,7 @@
         <link href="https://RebeccaWikman.github.io/about-me.html"/>
         <id>https://RebeccaWikman.github.io/about-me.html</id>
 
-        <updated>2022-01-21T16:46:27+01:00</updated>
+        <updated>2022-09-29T16:20:38+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -171,7 +165,7 @@
         <link href="https://RebeccaWikman.github.io/pipopoly.html"/>
         <id>https://RebeccaWikman.github.io/pipopoly.html</id>
 
-        <updated>2022-01-21T16:46:27+01:00</updated>
+        <updated>2022-09-29T16:20:38+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -223,7 +217,7 @@
         <link href="https://RebeccaWikman.github.io/extreme-galacticball.html"/>
         <id>https://RebeccaWikman.github.io/extreme-galacticball.html</id>
 
-        <updated>2022-01-21T16:46:27+01:00</updated>
+        <updated>2022-09-29T16:20:38+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -287,7 +281,7 @@
         <link href="https://RebeccaWikman.github.io/escape-in-frogress.html"/>
         <id>https://RebeccaWikman.github.io/escape-in-frogress.html</id>
 
-        <updated>2022-01-21T16:46:27+01:00</updated>
+        <updated>2022-09-29T16:20:38+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
